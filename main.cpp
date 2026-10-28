@@ -167,7 +167,7 @@ long long calculerTemps(Fonction operation) {
 
 
 int main() {
-    const int N = 1000;
+    const int N = 80000;
 
     int* ordonne = new int[N];
     int* aleatoire = new int[N];

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1793188216 source:/home/charroudinajlae71/bin/c++deilisi2/exercice_seance_2_dll/exercice_arbre_recherche_binaire_seance_mercredi_28/main.cpp
+	<iostream>
+	<chrono>
+	<map>
+	<cstdlib>
+	<ctime>
+
